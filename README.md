@@ -35,6 +35,5 @@
   ![Snake animation](https://github.com/juniormoreno/juniormoreno/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniormoreno&repo=Desafio-02-Ignite-Trilha-ReactJS)](https://github.com/JuniorMoreno/Desafio-02-Ignite-Trilha-ReactJS)
+ 
 
