@@ -1,8 +1,21 @@
-## Olá, me chamo Antonio Júnior
+### Hi there, I'm Júnior Moreno 👩‍💻
+
+:man_student: **Bachelor's degree:** Computer Enginneer at [UNIFEV](https://www.unifev.edu.br/);
+
+🤓 **Currently work:** Full Stack Developer at [Sanfir](http://www.sanfir.com.br/);
+
+❤️ **Technical skills:** Javascript, HTML, CSS, ReactJS, AWS;
+
+📚 **Learning:** Typescript, NextJS, React Native;
+
+⚒️ **Main Tools:** Visual Studio Code and GitHub;
+  
+  ##
+  
  <div>
   <a href="https://github.com/JuniorMoreno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorMoreno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorMoreno&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorMoreno&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorMoreno&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
