@@ -1,6 +1,6 @@
 ### Hi there, I'm Júnior Moreno 👩‍💻
 
-:man_student: **Bachelor's degree:** Computer Enginneer at [UNIFEV](https://www.unifev.edu.br/);
+:man_student: **Bachelor's degree:** Computer Engineer at [UNIFEV](https://www.unifev.edu.br/);
 
 🤓 **Currently work:** Full Stack Developer at [Sanfir](http://www.sanfir.com.br/);
 
