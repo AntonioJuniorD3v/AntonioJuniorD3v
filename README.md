@@ -4,9 +4,9 @@
 
 🤓 **Currently work:** Full Stack Developer at [Sanfir](http://www.sanfir.com.br/);
 
-❤️ **Technical skills:** Javascript, HTML, CSS, ReactJS, AWS;
+❤️ **Technical skills:** Javascript, HTML, CSS, ReactJS, AWS, NodeJS;
 
-📚 **Learning:** Typescript, NextJS, React Native;
+📚 **Learning:** Typescript, NextJS, NestJS, Redux, React Native;
 
 ⚒️ **Main Tools:** Visual Studio Code and GitHub;
   
