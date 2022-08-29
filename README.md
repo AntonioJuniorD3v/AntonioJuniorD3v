@@ -2,7 +2,7 @@
 
 :man_student: **Bachelor's degree:** Computer Engineer at [UNIFEV](https://www.unifev.edu.br/);
 
-🤓 **Currently work:** Full Stack Developer at [Sanfir](http://www.sanfir.com.br/);
+🤓 **Currently work:** Frontend Engineer at [Credihome by Loft](http://www.credihome.com.br/);
 
 ❤️ **Technical skills:** Javascript, HTML, CSS, ReactJS, AWS, NodeJS;
 
