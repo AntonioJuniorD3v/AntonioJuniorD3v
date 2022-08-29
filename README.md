@@ -1,4 +1,4 @@
-### Hi there, I'm Júnior Moreno 👩‍💻
+### Hi there, I'm Júnior Moreno
 
 :man_student: **Bachelor's degree:** Computer Engineer at [UNIFEV](https://www.unifev.edu.br/);
 
