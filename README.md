@@ -2,7 +2,7 @@
 
 :man_student: **Bachelor's degree:** Computer Engineer at [UNIFEV](https://www.unifev.edu.br/);
 
-🤓 **Currently work:** Software Engineer at [Credihome by Loft](http://www.credihome.com.br/);
+🤓 **Currently work:** Software Engineer at [Loft](http://www.loft.com.br/);
 
 ❤️ **Technical skills:** Javascript, TypeScript, HTML, CSS, ReactJS, AWS Services, NodeJS, Styled Components;
 
